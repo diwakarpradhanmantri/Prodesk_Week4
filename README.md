@@ -54,13 +54,5 @@ This approach keeps the project **simple, fast, and beginner-friendly**, while s
 
 ---
 
-## ⏳ Loading State
 
-To enhance user experience, the app displays a  
-**“Generating…” animation** for a short duration before showing the result.  
-This provides visual feedback and makes the interaction feel more polished.
-
----
-
-## 📁 Project Structure
 
